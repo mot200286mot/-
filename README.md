@@ -7,3 +7,5 @@
 Теперь можно запускать Exe Файл 
 
 Автор: https://vk.com/matveikhv 
+
+Скачать программу: https://github.com/mot200286mot/-/releases/tag/2.1
